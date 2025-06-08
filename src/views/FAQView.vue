@@ -25,7 +25,7 @@
         <div class="a">Только вы.</div>
       </div>
       <div class="section">
-        <div class="section-title">?? Технические моменты</div>
+        <div class="section-title">Технические моменты</div>
         <div class="q">Файл не загружается?</div>
         <div class="a">Проверьте формат и размер.</div>
         <div class="q">Сайт работает медленно?</div>
